@@ -1,0 +1,38 @@
+[1mdiff --git a/app.js b/app.js[m
+[1mindex dc42b47..7b5f20f 100644[m
+[1m--- a/app.js[m
+[1m+++ b/app.js[m
+[36m@@ -1 +1 @@[m
+[31m-// add new feature - button[m
+[32m+[m[32m// add new feature - form[m
+[1mdiff --git a/git.txt b/git.txt[m
+[1mindex b1b5de3..7f7121e 100644[m
+[1m--- a/git.txt[m
+[1m+++ b/git.txt[m
+[36m@@ -22,23 +22,4 @@[m [mgit remote add origin <- link ->[m
+ git remote -v (to verify remote)[m
+ git branch (to check branch)[m
+ git branch -M main (to rename branch)[m
+[31m-git push origin main[m
+[31m-[m
+[31m-[m
+[31m-Git branches[m
+[31m-[m
+[31m-[m
+[31m-Branch Commands[m
+[31m-git branch (to check branch)[m
+[31m-git branch -M main (to rename branch)[m
+[31m-git checkout <branch name> (to navigate)[m
+[31m-git checkout -b <new branch name> (to create new branch)[m
+[31m-git branch -d <branch name> (to delete branch)[m
+[31m-[m
+[31m-[m
+[31m-Merging Code[m
+[31m-git diff <branch name> (to compare commits, branches, files & more)[m
+[31m-git merge <branch name> (to merge 2 branches) OR Create a Pull Request(PR)[m
+[31m-[m
+[31m-[m
+[31m-git pull origin main -> used to fetch from a remote repo [m
+\ No newline at end of file[m
+[32m+[m[32mgit push origin main[m
+\ No newline at end of file[m
