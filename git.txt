@@ -1,3 +1,21 @@
+Git - tools to track changes in code
+1. track history
+2. help to collaborate
+
+Readme.md file -> tells project features
+
+Basic commands
+1. git config --list
+2. git clone <some link>
+3. git status
+
+File Status Lifecycle
+git add index.html -> git commit -m "Some msg" -> git push origin main
+
+commit - record of change
+push - upload local repo to remote repo
+
+
 Basic Commands -> init – used to create a new git repo
 git init
 git remote add origin <- link ->
